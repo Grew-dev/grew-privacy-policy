@@ -1,0 +1,11 @@
+{
+  "name": "grew-privacy-policy",
+  "version": "1.0.0",
+  "description": "Privacy Policy for sites and applications owned by Grew.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grew",
+  "license": "ISC"
+}
