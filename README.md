@@ -1,5 +1,5 @@
-Privacy Policy by Global Reaction Company
-This policy is effective as of 13 October 2020.
+# Privacy Policy
+This policy is effective as of 11th of November 2020.
 
 Global Reaction Company, aka "Grew" (“us”, “we”, or “our”) operates https://www.pointng.io/, https://app.pointng.io, https://www.secureweather.io, https://proto.secureweather.io, https://consolechat.io, https://www.globalreactioncompany.com, https://grew.dev (hereinafter referred to as “service”).
 
