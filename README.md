@@ -102,7 +102,7 @@ Our website may link to external sites that are not operated by us. We have no c
 
 You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with our services.
 
-Your continued use of our website will be regarded as acceptance to this privacy policy and our Terms & Conditions
+Your continued use of our websites and services will be regarded as acceptance to this privacy policy and our Terms & Conditions
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
