@@ -90,7 +90,7 @@ We use Mailchimp to maintain and store our newsletter and signup list email addr
 
 ## Other service providers
 
-We use privacy-friendly Simple Analytics as a web analytics provider. You can read Simple Analytics's privacy policy here.
+We use privacy-friendly Simple Analytics as a web analytics provider. You can read Simple Analytics's privacy policy here https://simpleanalytics.com/privacy
 
 ## Your consent
 
