@@ -38,7 +38,30 @@ We use automated data collection tools such as Cookies and Web Beacons to collec
 
 ## Data collection for pointNG location service
 
-Our product pointNG, the hyper secure location solution, is GDPR compliant and respects myData.org principles. pointNG script doesn't track or collect location information. pointNG doesn't send it's end users' coordinate-data to 3rd parties or our servers. All location information in our reverese geocoding process happens on client-interface and not on our servers. We don’t store IP-addresses.
+Our product pointNG, the hyper secure location solution, is GDPR compliant and respects myData.org principles. pointNG script doesn't track or collect location information. pointNG doesn't send it's end users' coordinate-data to 3rd parties or our servers. All GPS-location information in our reverese geocoding process happens on client-interface and not on our servers. We don’t store IP-addresses.
+
+If the use of pointNG chooses to use the IP-address based geocoding, we use ip-api https://ip-api.com/ for fetching user's location based on IP-address. Please visit https://members.ip-api.com/legal to read ip-api's privacy policy
+
+## Data collection for Pixtu.io service
+
+We use and provide pixtu.io service for machine learning based website optimization. Pixtu.io does not use cookies or collect personal data. Below is a list of data that Pixtu.io sends to our servers and we store to secure AWS-database location in EU.
+
+- window / document location
+- referrer
+- document encoding
+- window screen height
+- window screen width
+- document color depth
+- document title
+- browser name and version
+- device type
+- user-agent
+- timezone
+- path
+- protocol
+- hostname
+- event stream data (eg. page open, page close, clicks)
+- time spent on site
 
 ## Third party data sharing
 
@@ -51,7 +74,9 @@ For example, we may share your PII and any necessary payment information, such a
 
 Information Shared with Third Parties. We may also share anonymized, aggregated data we collect from the use of the Services, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access the Services, market trends, and other analysis that we create based on the information we receive from you and other users, with third parties, including advertisers and brands. Such information will never identify you or your employees, if any.
 
-We utilize Google Analytics, a service provided by Google, Inc., that we use to gather information about how Users engage with our Site and Services. For more information about Google Analytics, please visit www.google.com/policies/privacy/partners/. We also use Mixpanel to provide us with analytics data regarding Users’ interactions with our Site and Services. You may opt-out of Mixpanel’s automatic retention of data collected while using the Services by visiting https://mixpanel.com/optout/. To track opt-outs, Mixpanel uses a persistent opt-out cookie placed on your device. Please note that if you get a new computer, install a new browser, erase or otherwise alter the browser’s cookie file (including upgrading certain browsers), you may clear the Mixpanel opt-out cookie.
+We utilize Google Analytics, a service provided by Google, Inc., that we use to gather information about how Users engage with our Site and Services. For more information about Google Analytics, please visit www.google.com/policies/privacy/partners/. 
+
+We use Mixpanel to provide us with analytics data regarding Users’ interactions with our Site and Services. You may opt-out of Mixpanel’s automatic retention of data collected while using the Services by visiting https://mixpanel.com/optout/. To track opt-outs, Mixpanel uses a persistent opt-out cookie placed on your device. Please note that if you get a new computer, install a new browser, erase or otherwise alter the browser’s cookie file (including upgrading certain browsers), you may clear the Mixpanel opt-out cookie.
 
 Information Disclosed in Connection with Business Transactions. Information that we collect from our Users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.
 
