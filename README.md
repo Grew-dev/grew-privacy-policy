@@ -1,7 +1,7 @@
 # Privacy Policy
 This policy is effective as of 11th of November 2020.
 
-Global Reaction Company, aka "Grew" (“us”, “we”, or “our”) operates https://www.pointng.io/, https://app.pointng.io, https://www.secureweather.io, https://proto.secureweather.io, https://consolechat.io, https://www.globalreactioncompany.com, https://grew.dev (hereinafter referred to as “service”).
+Global Reaction Company, aka "Grew" (“us”, “we”, or “our”) operates https://www.pointng.io/, https://app.pointng.io, https://www.secureweather.io, https://proto.secureweather.io, https://consolechat.io, https://www.globalreactioncompany.com, https://grew.dev, https://www.growthhackertools.io (hereinafter referred to as “service”).
 
 Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across all our websites and applications we own and operate.
 
