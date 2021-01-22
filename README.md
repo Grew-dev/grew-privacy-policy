@@ -1,7 +1,7 @@
 # Privacy Policy
 This policy is effective as of 11th of November 2020.
 
-Global Reaction Company, aka "Grew" (“us”, “we”, or “our”) operates https://www.pointng.io/, https://app.pointng.io, https://www.secureweather.io, https://proto.secureweather.io, https://consolechat.io, https://www.globalreactioncompany.com, https://grew.dev, https://www.growthhackertools.io (hereinafter referred to as “service”).
+Global Reaction Company, aka "Grew" (“us”, “we”, or “our”) operates https://hacker-ai.com https://www.pointng.io/, https://app.pointng.io, https://www.secureweather.io, https://proto.secureweather.io, https://consolechat.io, https://www.globalreactioncompany.com, https://grew.dev, https://www.growthhackertools.io (hereinafter referred to as “service”).
 
 Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across all our websites and applications we own and operate.
 
@@ -91,6 +91,24 @@ We use Mailchimp to maintain and store our newsletter and signup list email addr
 ## Other service providers
 
 We use privacy-friendly Simple Analytics as a web analytics provider. You can read Simple Analytics's privacy policy here https://simpleanalytics.com/privacy
+
+## Processing your payments
+
+After you place an order on our websites you will need to make payment for the goods or services you have ordered. In order to process your payment we use Stripe, a third party payment processor.
+
+Your payment will be processed by Stripe, who collect, use and process your information, including payment information, in accordance with their privacy policies.
+
+You can access their privacy policy via the following link: https://stripe.com/gb/privacy
+
+Transfer and storage of your information
+
+Stripe’s services in Europe are provided by a Stripe affiliate—Stripe Payments Europe Limited (“Stripe Payments Europe”)—an entity located in Ireland. In providing Stripe Services, Stripe Payments Europe transfers personal data to Stripe, Inc. in the US.
+
+For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
+
+Legal basis for processing: necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation).
+
+Reason why necessary to perform a contract: to fulfil your contractual obligation to pay for the goods or services you have ordered from us.
 
 ## Your consent
 
