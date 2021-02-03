@@ -1,7 +1,7 @@
 # Privacy Policy
 This policy is effective as of 11th of November 2020.
 
-Global Reaction Company, aka "Grew" (“us”, “we”, or “our”) operates https://hacker-ai.com https://www.pointng.io/, https://app.pointng.io, https://www.secureweather.io, https://proto.secureweather.io, https://consolechat.io, https://www.globalreactioncompany.com, https://grew.dev, https://www.growthhackertools.io (hereinafter referred to as “service”).
+Global Reaction Company, aka "Grew" (“us”, “we”, or “our”) operates https://hacker-ai.com https://www.pointng.io/, https://app.pointng.io, https://www.secureweather.io, https://proto.secureweather.io, https://consolechat.io, https://www.globalreactioncompany.com, https://grew.dev, https://www.growthhackertools.io, https://productfarm.com (hereinafter referred to as “service”).
 
 Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across all our websites and applications we own and operate.
 
@@ -83,8 +83,6 @@ Information Disclosed in Connection with Business Transactions. Information that
 Information Disclosed for Our Protection and the Protection of Others. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
 
 Your information, including Personal Data, may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
-
-We utilize Leadfeeder https://www.leadfeeder.com/ to analyze and identify visitor traffic on our websites. You can read Leadfeeder's privacy policy here https://www.leadfeeder.com/privacy/
 
 We use Mailchimp to maintain and store our newsletter and signup list email addresses. You can read Mailchimp's privacy policy here https://mailchimp.com/legal/privacy/
 
